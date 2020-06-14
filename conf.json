@@ -3,7 +3,7 @@
 	"token": "",
 	"name": "Botster",
     "passwords_array": ["please", "dont", "hack", "me"],
-    "default_channel": "720680493602963532",
+    "default_channel": "",
 	"answer": {
 		"hallo": ["Hallo Dude ", "Hallo Man ", "Hallo ", "Hey "],
 		"how_are_you": ["Fine, how are you?"]
