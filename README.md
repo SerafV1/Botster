@@ -1,0 +1,2 @@
+# Botster
+ Discord bot
